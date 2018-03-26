@@ -50,3 +50,6 @@
 #Ignore various code garbage.
 *.pyc
 *.ipynb_checkpoints*
+
+# Ignore some folders
+fig/*
